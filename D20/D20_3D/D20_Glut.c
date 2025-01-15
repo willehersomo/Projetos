@@ -20,9 +20,6 @@ As texturas foram criadas utilizando uma ferramenta gratuita online chamada Cool
 que gera imagens estilizadas com base no texto digitado (https://cooltext.com/)
 */
 
-
-
-
 typedef struct
 {
     float x, y, z;
