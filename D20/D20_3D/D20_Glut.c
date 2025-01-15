@@ -12,6 +12,7 @@
 Este projeto utiliza a biblioteca stb_image para carregar as texturas. 
 A biblioteca é desenvolvida por Sean Barrett e disponibilizada sob licença pública de domínio ou MIT. 
 É uma ferramenta incrível para trabalhar com imagens de maneira simples em projetos C/C++.
+https://github.com/nothings/stb
 */
 
 typedef struct
