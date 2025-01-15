@@ -15,6 +15,14 @@ A biblioteca é desenvolvida por Sean Barrett e disponibilizada sob licença pú
 https://github.com/nothings/stb
 */
 
+/*
+As texturas foram criadas utilizando uma ferramenta gratuita online chamada Cool Text, 
+que gera imagens estilizadas com base no texto digitado (https://cooltext.com/)
+*/
+
+
+
+
 typedef struct
 {
     float x, y, z;
